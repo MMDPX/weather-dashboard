@@ -1,6 +1,6 @@
 # Weather-Dashboard
 
-![Weather-Dashboard](https://raw.githubusercontent.com/MMDPX/JavaScript-Password-Generator/main/weather-dashboard.png)
+![Weather-Dashboard](https://github.com/MMDPX/weather-dashboard/blob/main/weather-dashboard.png?raw=true)
 
 
 ## Description
